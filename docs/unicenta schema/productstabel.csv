@@ -1,0 +1,402 @@
+"ID";"REFERENCE";"CODE";"CODETYPE";"NAME";"PRICEBUY";"PRICESELL";"CATEGORY";"TAXCAT";"ATTRIBUTESET_ID";"STOCKCOST";"STOCKVOLUME";"IMAGE";"ISCOM";"ISSCALE";"ISKITCHEN";"PRINTKB";"SENDSTATUS";"ISSERVICE";"ATTRIBUTES";"DISPLAY";"ISVPRICE";"ISVERPATRIB";"TEXTTIP";"WARRANTY";"STOCKUNITS"
+"023db54c-5d61-4c6c-8771-3ba74129c587";"patataspaq";"patataspaq";"None";"Paquete Patatas";0.85;0.9090909090909091;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Paquete <br>Patatas";0;0;"";0;0.0
+"03005c0e-dae7-4b97-85c3-1dee50f65dc0";"cutty";"cutty";"None";"Cutty Shark";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Cutty <br>Shark";0;0;"";0;0.0
+"037d4a31-a464-403c-a2df-450773087096";"mars";"mars";"None";"Mars";1.27;1.8181818181818181;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Mars";0;0;"";0;0.0
+"04a96244-a13b-4170-89df-8712e820554a";"daiquiry";"daiquiry";"None";"Daiquiry";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Daiquiry";0;0;"";0;0.0
+"04cf5a99-f5a6-42d3-b626-d49a52eaa1c8";"negrita";"negrita";"None";"Negrita";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Negrita";0;0;"";0;0.0
+"06578d95-916a-47be-8006-01f5b0acbad5";"chipirones";"chipirones";"None";"Chipirones PLancha";1.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Chipirones <br>Plancha";0;0;"";0;0.0
+"080f15e0-ce18-433e-97c2-4cd69f0c2fb8";"cheavas";"cheavas";"None";"Cheavas";2.0;7.2727272727272725;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Cheavas";0;0;"";0;0.0
+"08cef0b9-19c0-4d34-a8dd-41162f3207ec";"patatasalinadas";"patatasalinadas";"None";"Patatas AliÃ±adas";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Patatas <br>AliÃ±adas";0;0;"";0;0.0
+"09efa58a-1edc-4686-a542-123f3e683aa7";"almejas";"almejas";"None";"Almejas";5.0;10.909090909090908;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Almejas";0;0;"";0;0.0
+"0b255f70-125b-4ed7-895b-8835eb344c20";"puertoindia";"puertoindia";"None";"Puerta de Indias";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Puerta <br>de Indias";0;0;"";0;0.0
+"0c1a1bfd-fd22-445b-abde-3b6972b235e0";"otros";"otros";"None";"Otros";1.0;0.9090909090909091;"e3e2e2ce-cc64-462d-b3f7-5b3f7cfadfbe";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Otros";0;0;"";0;0.0
+"0c4d389a-d787-47c9-a298-757a0ecb4282";"botellacava";"botellacava";"None";"Botella Cava";4.0;16.363636363636363;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Botella <br>Cava";0;0;"";0;0.0
+"0d5a6cdd-3a5e-4365-9975-0eb173108198";"aguagas";"aguagas";"None";"Agua Gas";1.0;2.2727272727272725;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Agua Gas";0;0;"";0;0.0
+"0e0072af-8b85-4cbf-baf6-f4467d5e00f5";"ensaladafrutas";"ensaladafrutas";"None";"Enslada con Frutas";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"68a189d2-01e6-47c5-97cd-fa8e9b7c9c8a";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Enslada <br>con Frutas";0;0;"";0;0.0
+"100843fc-6475-4287-a0f8-7dd2e24710b0";"dyc";"dyc";"None";"DyC";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>DyC";0;0;"";0;0.0
+"10e099ee-82bd-4e95-b5b8-32538886b9cf";"servicio";"servicio";"None";"_Servicio de Mesa";0.2;0.9090909090909091;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Servicio de Mesa";0;0;"";0;0.0
+"1155e401-a912-4f82-9818-26526abc19ab";"tapachipi";"tapachipi";"None";"Tapa Chipirones";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Chipirones";0;0;"";0;0.0
+"11673cf4-07b6-4e1c-9816-79f25ed12594";"kasnaranja";"kasnaranja";"None";"Kas Naranja";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Kas <br>Naranja";0;0;"";0;0.0
+"1252e27b-ee99-4961-9041-75ff9fdf11a8";"absolut";"absolut";"None";"Absolut";3.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Absolut";0;0;"";0;0.0
+"132c507f-23bf-46f0-b0b5-c874e161b0e2";"redbull";"redbull";"None";"Red Bull";1.0;1.8181818181818181;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Red Bull";0;0;"";0;0.0
+"136be38b-0488-437b-8c2f-32b48367d036";"vasoSangria";"vasoSangria";"None";"Vaso Sangria";2.0;3.6363636363636362;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Vaso <br>Sangria";0;0;"";0;0.0
+"13e71a02-136e-4a67-8d93-8ec784c4f998";"smirnoff";"smirnoff";"None";"Smirnoff";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Smirnoff";0;0;"";0;0.0
+"1497a7f7-c639-4769-acaa-9f69d00107e4";"frutaseco";"frutaseco";"None";"Frutas secos";0.4;0.9090909090909091;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Frutas<br> secos";0;0;"";0;0.0
+"169058d1-70aa-46a0-9ddd-a908af2214af";"monteVelha";"monteVelha";"None";"Monte Velha 1l";5.0;14.545454545454545;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Monte Velha <br>1l";0;0;"";0;0.0
+"189eb6ed-459f-4000-95de-c8aaf68c4a3a";"fabes";"fabes";"None";"Fabes Choqueros";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Fabes <br>Choqueros";0;0;"";0;0.0
+"1987c104-426c-4de9-bded-0ef801a540c3";"patatas";"patatas";"None";"Patatas Fritas";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Patatas <br>Fritas";0;0;"";0;0.0
+"19910d4e-1730-4d93-a552-73657ff322a9";"bacontop";"bacontop";"None";"Bacon";0.1;0.45454545454545453;"71cc22a4-e60d-4326-b059-63a1f6067951";"001";"";0.0;0.0;"";"1";"0";"1";"0";"0";"0";"";"<html>Bacon";0;0;"";0;0.0
+"1a4ed532-36c8-4c90-947a-b15ee7ebc26c";"cachimba";"cachimba";"None";"Cachimba";2.0;4.545454545454545;"59dafa0a-a1f8-4221-8b07-19e4df63b5ee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Cachimba";0;0;"";0;0.0
+"1b33502c-4511-4a94-83b2-15a92ad18b9e";"ballentines";"ballentines";"None";"Ballentines";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Ballentines";0;0;"";0;0.0
+"1ba06588-7237-4eee-bf0b-6ba0c5e24b12";"mixto";"mixto";"None";"Tabla Iberico Mixto";5.0;12.727272727272727;"0484675e-1baf-415a-b1a0-897fbb1fa14c";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Tabla <br>Iberico <br>Mixto";0;0;"";0;0.0
+"1bd7d00d-e297-496b-ad1e-dff1e84c6e66";"dulce";"dulce";"None";"Dulce";0.8;1.3636363636363635;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Dulce";0;0;"";0;0.0
+"1cbd4758-d345-457f-9bf8-2be854a82547";"zumotomate";"zumotomate";"None";"Zumo de Tomate";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Rad. <br>Tomate";0;0;"";0;0.0
+"1d5698e8-1c13-4a23-9496-0f4068aacf72";"mojitopeq";"mojitopeq";"None";"Mojito PequeÃ±o";2.0;4.545454545454545;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Mojito <br>PequeÃ±o";0;0;"";0;0.0
+"1e0478d1-647b-4f7e-b6e9-be3dd46e9d7b";"cacique";"cacique";"None";"Cacique";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Cacique";0;0;"";0;0.0
+"1eebe094-861a-47e7-b647-307cee7c82e4";"tapaboquerones";"tapaboquerones";"None";"Tapa Boquerones";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Boquerones";0;0;"";0;0.0
+"2095d04b-df18-4256-8674-6b7cbb431fbd";"mm";"mm";"None";"M&M";1.27;1.8181818181818181;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>M&M";0;0;"";0;0.0
+"20969952-e7e6-4f9e-9faf-c727234856c6";"choco";"choco";"None";"Chocos Fritos";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Chocos<br> Fritos";0;0;"";0;0.0
+"225f8ad9-82c9-4806-900e-ed7565651eea";"batidoNat";"batidoNat";"None";"Batido Natural";1.0;3.1818181818181817;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Batido <br>Natural";0;0;"";0;0.0
+"22933dce-8f8d-49f4-a9f1-e016181eff1d";"licor43";"licor43";"None";"Licor 43";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Licor 43";0;0;"";0;0.0
+"236ab37c-a7e3-4b11-8964-38e8264ec36d";"radl";"radl";"None";"Rad. Limon";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Rad. <br>Limon";0;0;"";0;0.0
+"23a8c4dc-96fb-4faf-96c5-37aa509ffffa";"melocoton";"melocoton";"None";"Licor de Melocoton";1.0;2.727272727272727;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Licor de <br>Melocoton";0;0;"";0;0.0
+"29b79810-6306-4967-9da9-110c2af13b0d";"monthamb";"monthamb";"None";"Montadito Hamburguesa";1.0;2.727272727272727;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Montadito <br>Hamburguesa";0;0;"";0;0.0
+"2abadc49-0c59-4de1-a269-92a6350557a1";"coctelsin";"coctelsin";"None";"Coctail Sin Alcohol";2.0;4.545454545454545;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Coctail <br>sin <br>Alcohol";0;0;"";0;0.0
+"2aebce6d-c478-4dd0-8f41-2025d2280cdc";"cafebayleys";"cafebayleys";"None";"Cafe Bayleys";1.0;1.8181818181818181;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Cafe Bayleys";0;0;"";0;0.0
+"2d6eaa91-6c5f-46f7-bbb7-eb2f7dea25dd";"atuntomate";"atuntomate";"None";"Atun en Tomate";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Atun en <br>Tomate";0;0;"";0;0.0
+"2ed710cd-2ae6-4d7b-9723-a6879bbd7be7";"caipirinia";"caipirinia";"None";"Caipirinia";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Caipirinia";0;0;"";0;0.0
+"2f06365d-09a5-44e6-b845-5c739c1daf32";"guisodia";"guisodia";"None";"Guiso del Dia";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Guiso <br>del<br> dia";0;0;"";0;0.0
+"2fb26ea4-40ad-4ea4-892c-a69f10a23bdc";"tapaboqueronvinagre";"tapaboqueronvinagre";"None";"Tapa Boquerones en Vinagre";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Boquerones <br>en Vinagre";0;0;"";0;0.0
+"307daa5c-92fc-4471-a1f1-125b2d36ad10";"trufoframbuesa";"trufoframbuesa";"None";"Trufo Frambuesa";1.4;2.0;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Trufo <br>Frambuesa";0;0;"";0;0.0
+"31a4cda6-b553-4528-bf54-96fcf49521bf";"hambpat";"hambpat";"None";"Hamburguesa con Patatas";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Hamburguesa <br>con Patatas";0;0;"";0;0.0
+"365f99c3-d41a-4aa2-bce0-24fc247ebb5f";"tapacaliente";"tapacaliente";"None";"Tapa Caliente";1.0;3.1818181818181817;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa Caliente";0;0;"";0;0.0
+"37e8d484-6e39-46d0-ba6d-5f40e027db8a";"sangriaCava";"sangriaCava";"None";"Sangria de Cava";4.0;13.636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Sangria de Cava";0;0;"";0;0.0
+"39850044-ed5b-414b-a720-133157b8a392";"pinacolada";"pinacolada";"None";"Pina Colada";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Pina <br>Colada";0;0;"";0;0.0
+"39b6feef-c006-4695-abb2-20ce92c7140d";"radn";"radn";"None";"Rad. Naranja";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Rad. <br>Naranja";0;0;"";0;0.0
+"3afd8996-e7c8-4e2f-bb57-725528e19d2d";"tomate";"tomate";"None";"Tomate";1.0;3.6363636363636362;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tomate";0;0;"";0;0.0
+"3b44f845-fe4c-48ed-a81e-8144db481c67";"montatun";"montatun";"None";"Montadito de Atun";1.0;2.727272727272727;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Montadito <br>de Atun";0;0;"";0;0.0
+"3b754b70-3492-4798-a530-3c8fecfe438c";"sandmx";"sandmx";"None";"Sandwich Mixta";1.0;3.1818181818181817;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Sandwich <br>Mixta";0;0;"";0;0.0
+"3b90e7f8-82ba-4536-8d47-898438fc736f";"jarraTV";"jarraTV";"None";"Jarra de Tinto";2.0;5.454545454545454;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Jarra de <br>Tinto";0;0;"";0;0.0
+"3c61c212-e654-44f5-ba09-a722434a9143";"huevopat";"huevopat";"None";"Huevos con Patatas";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Huevos <br>con Patatas";0;0;"";0;0.0
+"41b96f23-96d2-4bc9-b633-31ad7433fc89";"pescaplancha";"pescaplancha";"None";"Pescado Plancha";20.0;27.27272727272727;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Pescado Plancha";0;0;"";0;0.0
+"42c05af6-4139-4989-9f2d-eddcc807597e";"cerveza copa";"cerveza copa";"None";"Cerveza Copa";1.5;2.2727272727272725;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Cerveza  <br>Copa";0;0;"";0;0.0
+"42c275a6-bfc2-4d00-923f-af9c938593f7";"fritovariado";"fritovariado";"None";"Frito Variado";3.0;9.09090909090909;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Frito <br>Variado";0;0;"";0;0.0
+"42e9535b-7c63-4683-b296-9baa72fed539";"cerveza";"cerveza";"None";"Cerveza Grande";1.5;2.727272727272727;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Cerveza <br> Grande";0;0;"";0;0.0
+"4391df3a-7c45-4b9f-99fa-a33e48183934";"tapachocos";"tapachocos";"None";"Tapa Choco";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Choco";0;0;"";0;0.0
+"43d5cd82-f06e-420e-aeb1-8c551392538e";"aupafresa";"aupafresa";"None";"Aupa Fresa";0.84;1.3636363636363635;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Aupa <br>Fresa";0;0;"";0;0.0
+"453b53b4-ced7-4abf-8efc-0a5a8f0c49d7";"casalgarciamedia";"casalgarciamedia";"None";"Casal Garcia media";3.0;6.363636363636363;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Casal Garcia <br>media";0;0;"";0;0.0
+"46fcd3c4-7770-4f0e-b6ab-71126ecba9c4";"gambasajillo";"gambasajillo";"None";"Gambas al Ajillo";4.0;8.181818181818182;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Gambas <br>al Ajillo";0;0;"";0;0.0
+"47ca9f8c-0525-4ef3-b381-6f4858254698";"oreo";"oreo";"None";"Oreo";1.4;2.0;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Oreo";0;0;"";0;0.0
+"4d6cf7fe-32db-4361-8bbc-fcea81de97c9";"tapacocktail";"tapacocktail";"None";"Tapa Cocktail de Marisco";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Cocktail <br>de Marisco";0;0;"";0;0.0
+"4d9e51d8-8be1-4dc7-9066-efbf5b34e5e6";"kaslimon";"kaslimon";"None";"Kas Limon";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Kas <br>Limon";0;0;"";0;0.0
+"4e066250-5319-4d07-831f-7f96c4d7a386";"chbenjamin";"chbenjamin";"None";"Champagne Benjamin";2.0;4.545454545454545;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Champagne <br>Benjamin";0;0;"";0;0.0
+"4f4bad6d-0af3-4b62-beb8-66231dbc1ee8";"sinSalsa";"sinSalsa";"None";"sin Salsa";0.0;0.0;"e3e2e2ce-cc64-462d-b3f7-5b3f7cfadfbe";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>sin Salsa";0;0;"";0;0.0
+"50316a4f-2463-4167-8966-16f70511aab1";"tequillasunrise";"tequillasunrise";"None";"Tequilla Sunrise";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Tequilla Sunrise";0;0;"";0;0.0
+"51951d7c-96df-44b5-a6d0-770b131568f3";"london";"london";"None";"London 1";2.0;6.363636363636363;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>London 1";0;0;"";0;0.0
+"5350f7a5-9c2b-41b6-a78d-cdfaf0f061c2";"legendario";"legendario";"None";"Legendario";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Legendario";0;0;"";0;0.0
+"544f1926-76c9-47e9-81a4-4c192cc89572";"tostaMixta";"tostaMixta";"None";"Tosta Mixta";2.0;4.545454545454545;"0484675e-1baf-415a-b1a0-897fbb1fa14c";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Tosta <br>Mixta";0;0;"";0;0.0
+"55ac5fab-563a-4b5c-8d90-c67dcf21ae2c";"sidras";"sidras";"None";"Seagrams";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Seagrams";0;0;"";0;0.0
+"55bb84e5-f2ac-49fc-8822-a5e553235e4c";"vinobl";"vinobl";"None";"Vino Blanco";1.0;2.2727272727272725;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Vino Blanco";0;0;"";0;0.0
+"55cd48a2-3534-4c77-b4c3-9cb80c1a8edc";"gambaspl";"gambaspl";"None";"Gambas Plancha";6.0;10.909090909090908;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Gambas <br>Plancha";0;0;"";0;0.0
+"563b7cb1-4ada-4300-a5ab-bf58a761af61";"radf";"radf";"None";"Rad. Fresa";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Rad. <br>Fresa";0;0;"";0;0.0
+"5764d5ec-d7b9-4bb8-b666-dcb79c00c0a8";"buckler";"buckler";"None";"Buckler";1.0;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Buckler";0;0;"";0;0.0
+"57fae68a-a6d4-4a5b-9094-b6c8ac96c0d7";"tostaextra";"tostaextra";"None";"Tostada Extra";1.0;2.2727272727272725;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tostada <br>Extra";0;0;"";0;0.0
+"58acc30e-124d-4b71-8b34-9c18856daa1a";"aquariusn";"aquariusn";"None";"Aquarius Naranja";1.0;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Aquarius <br>Naranja";0;0;"";0;0.0
+"58cdb88e-fcb7-4fa8-81ee-742faace838a";"montvegetal";"montvegetal";"None";"Montadito Vegetal";1.0;2.727272727272727;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Montadito <br>Vegetal";0;0;"";0;0.0
+"5902c688-c26e-469a-b0bb-cb5735ab67ff";"atuncebolla";"atuncebolla";"None";"Atun en Cebolla";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Atun en <br>Cebolla";0;0;"";0;0.0
+"5931b789-f351-465e-a8a8-8edbbfbecb89";"casalgarciamini";"casalgarciamini";"None";"Casal Garcia mini";1.0;3.1818181818181817;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Casal Garcia <br>mini";0;0;"";0;0.0
+"59539b1d-8ef7-4b59-83ec-e9875f327b19";"tapaatun";"tapaatun";"None";"Tapa Atun";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa<br> Atun";0;0;"";0;0.0
+"59d41d50-1743-478e-812c-8aad7b98a424";"boqueronesvinagre";"boqueronesvinagre";"None";"Boquerones en Vinagre";4.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Boquerones <br>en Vinagre";0;0;"";0;0.0
+"5a6c89d2-82ee-4d4c-8ed0-b83b96b0abcb";"tapapatatas";"tapapatatas";"None";"Tapa Patatas AliÃ±adas";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Patatas <br>AliÃ±adas";0;0;"";0;0.0
+"5b78e2ef-0925-4962-9ac8-45f2826e8c63";"tapafria";"tapafria";"None";"Tapa Fria";1.0;2.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Tapa Fria";0;0;"";0;0.0
+"5cde96cc-1480-4873-86ab-8b99a913cf01";"quesotop";"quesotop";"None";"Queso";0.1;0.45454545454545453;"71cc22a4-e60d-4326-b059-63a1f6067951";"001";"";0.0;0.0;"";"1";"0";"1";"0";"0";"0";"";"<html>Queso";0;0;"";0;0.0
+"5e014ecd-0560-4dce-9268-383ad6fec2d8";"mojito";"mojito";"None";"Mojito";2.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Mojito";0;0;"";0;0.0
+"5e2d129e-4f03-4216-96e4-f9a93be54bff";"heineken";"heineken";"None";"Heineken Tercio";1.0;1.8181818181818181;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Heineken <br>Tercio";0;0;"";0;0.0
+"5ec3ae68-f278-483b-b129-cfd4f03c7a20";"chupito";"chupito";"None";"Chupito de Licor";1.0;1.3636363636363635;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Chupito de Licor";0;0;"";0;0.0
+"5ecbea2e-dbb9-427d-8f96-a0533a5a7533";"eristoff";"eristoff";"None";"Eristoff";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Eristoff";0;0;"";0;0.0
+"5f58efb0-4201-4ba9-ba1e-c52c06abac20";"johnywalker";"johnywalker";"None";"Johny Walker";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Johny Walker";0;0;"";0;0.0
+"60025f45-0f51-4588-8fa0-e0a0484d4304";"trufoalmendrado";"trufoalmendrado";"None";"Trufo Almendrado";1.4;2.0;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Trufo <br>Almendrado";0;0;"";0;0.0
+"6116c1fa-6278-4806-8e8d-9b5ad198baa5";"malibu";"malibu";"None";"Malibu";1.5;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Malibu";0;0;"";0;0.0
+"615236d9-0726-4695-82a5-50a1ed010d9b";"hendrix";"hendrix";"None";"Hendrix";4.0;9.09090909090909;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Hendrix";0;0;"";0;0.0
+"62d92828-add7-494a-866f-6cd533434835";"vasoSangriachica";"vasoSangriachica";"None";"Vaso Sangria Chica";1.0;1.8181818181818181;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Vaso Sangria <br> Chica";0;0;"";0;0.0
+"66fe4e30-ba16-4c19-b8db-d5d986ea669c";"trufoblanco";"trufoblanco";"None";"Trufo Blanco";1.4;2.0;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Trufo <br>Blanco";0;0;"";0;0.0
+"68cd473b-bc87-435e-b1f2-6dc7d128dc2b";"fideos";"fideos";"None";"Fideos a la Marinera";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Fideos <br>a la <br>Marinera";0;0;"";0;0.0
+"68e0f2a8-a6a7-480b-8f9e-fff0c15250d9";"zumopiÃ±a";"zumopiÃ±a";"None";"Zumo de PiÃ±a";1.0;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Zumo <br>de PiÃ±a";0;0;"";0;0.0
+"6c33895f-be01-4cc6-ae94-2dc7c3e38e19";"huevohelado";"huevohelado";"None";"Huevo Helado";2.0;3.1818181818181817;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Huevo Helado";0;0;"";0;0.0
+"6c947418-0095-49f7-8736-9759345e0ce2";"whitelabel";"whitelabel";"None";"White Label";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>White Label";0;0;"";0;0.0
+"6e9c1829-9c0d-4745-8f5c-eac830f5bb38";"sexonthebeach";"sexonthebeach";"None";"Sex on the Beach";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Sex <br>on the <br>Beach";0;0;"";0;0.0
+"70bb2061-ef8d-41bc-b129-c27eea5a873c";"zumomelocoton";"zumomelocoton";"None";"Zumo de Melocotn";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Zumo <br>de Melocotn";0;0;"";0;0.0
+"73b0f34a-38cd-476d-a8d4-ca2510dae263";"tapaatuntomate";"tapaatuntomate";"None";"Tapa Atun Tomate";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa Atun <br>Tomate";0;0;"";0;0.0
+"7463d1e0-6603-48a5-80ee-4ccf47c2af7f";"rayo";"rayo";"None";"Rayo en Pimienton";5.0;9.09090909090909;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Rayo <br>en<br> Pimienton";0;0;"";0;0.0
+"74b59dc0-3f1e-4360-b305-a2c7f8744c52";"zumoNat";"zumoNat";"None";"Zumo Natural";1.0;3.1818181818181817;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Zumo <br>Natural";0;0;"";0;0.0
+"761e5544-2ce0-423f-911b-10f06b5cb68c";"rape";"rape";"None";"Rape en Almendras";5.0;9.09090909090909;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Rape <br>en<br> Almendras";0;0;"";0;0.0
+"765d89e0-dfb9-489c-8918-f620c820bbe6";"ensmixta";"ensmixta";"None";"Ensalada Mixta";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"2d3b101e-3a2e-4fa3-8519-00fec32612ec";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Ensalada <br>Mixta";0;0;"";0;0.0
+"76a17aee-2d2c-4c8a-b0c2-43e0a2c44223";"playaalta";"playaalta";"None";"Playa Alta";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Playa Alta";0;0;"";0;0.0
+"76e74211-c048-446c-912b-0d461d9c59f5";"copa";"copa";"None";"Copa";0.0;0.0;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Copa";0;0;"";0;0.0
+"796b6a5c-d43a-496a-8b35-830c118b0784";"wodkacaramello";"wodkacaramello";"None";"Wodka Caramello";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Wodka <br>Caramello";0;0;"";0;0.0
+"797411b7-47b5-4d14-9698-14f5cab336dd";"martinidry";"martinidry";"None";"Martini extra Dry";1.0;3.1818181818181817;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Martini <br>extra Dry";0;0;"";0;0.0
+"79c8b693-696a-4f90-a8fd-20e0ea64c922";"hierbas";"hierbas";"None";"Licor de Hierbas";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Licor <br>de Hierbas";0;0;"";0;0.0
+"79e90d64-ffd5-43e3-a92b-523d3757bce5";"boquerones";"boquerones";"None";"Boquerones Fritos";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Boquerones <br>Fritos";0;0;"";0;0.0
+"7e00abd9-f87b-4a28-85f3-48a7fa621859";"pezespada";"pezespada";"None";"Pez Espada";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Pez <br>Espada";0;0;"";0;0.0
+"7e0121ce-cb4f-471d-9cb8-3b290eea3c59";"tintoverano";"tintoverano";"None";"Tinto de Verano";1.0;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tinto de <br>Verano";0;0;"";0;0.0
+"7f7a0eb2-faaf-4159-aeb9-a4ae05232c2b";"queso";"queso";"None";"Tabla Quesos";7.0;14.0;"0484675e-1baf-415a-b1a0-897fbb1fa14c";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Tabla de <br>Quesos";0;0;"";0;0.0
+"7f935ad1-873e-4d4a-9af2-51133745e85b";"coquinas";"coquinas";"None";"Coquinas";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Coquinas";0;0;"";0;0.0
+"819805c4-809a-483d-8d2c-c6ee8c637651";"roscon";"roscon";"None";"Roscon";1.0;1.8181818181818181;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Roscon";0;0;"";0;0.0
+"81b27f9f-6e8a-47ef-b2e7-4e84b6766599";"tapaatunencebolla";"tapaatunencebolla";"None";"Tapa Atun Encebollado";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa Atun <br>Encebollado";0;0;"";0;0.0
+"82f19499-5d19-44a7-8afa-b0fd4d660ca0";"moet";"moet";"None";"Moet &Chandon";30.0;40.90909090909091;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Moet & <br>Chandon";0;0;"";0;0.0
+"8400ccc0-8059-4ab9-8f9e-386996c97225";"croquetas";"croquetas";"None";"Croquetas";3.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Croquetas";0;0;"";0;0.0
+"840480d9-07be-4289-8e5e-42bccf39b00a";"pollopat";"pollopat";"None";"Pollo con Patatas";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Pollo <br>con Patatas";0;0;"";0;0.0
+"878d63cf-348c-4aa9-b877-d9cdb731d587";"tostada";"tostada";"None";"Tostada Simple";0.5;1.3636363636363635;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tostada <br> Simple";0;0;"";0;0.0
+"88fb3fd2-36d5-4b60-aa2c-2d60d6172f98";"conCola";"conCola";"None";"con Cola";0.8;0.0;"326d22ce-f8a0-4c38-92ab-524387bb1e60";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>con Cola";0;0;"";0;0.0
+"89dd9532-66ce-40cb-a400-ed4642e4d4b1";"marqcaceres";"marqcaceres";"None";"Marques de Cacares";7.0;18.18181818181818;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Marques de Cacares";0;0;"";0;0.0
+"8aa23c25-c0a6-4c59-bd82-18ee93d38c7b";"jb";"jb";"None";"JB";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>JB";0;0;"";0;0.0
+"8bdfbf54-d568-4b93-9618-b3d06d40d4e9";"pulpo";"pulpo";"None";"Pulpo";3.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Pulpo";0;0;"";0;0.0
+"8e271965-71d7-490b-83b6-f292b639566e";"huevas";"huevas";"None";"Huevas AliÃ±adas";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Huevas <br>AliÃ±adas";0;0;"";0;0.0
+"8f82daa4-e0ec-461d-ab46-1349918d027c";"monteVelhamedia";"monteVelhamedia";"None";"Monte Velha media";3.0;7.2727272727272725;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Monte Velha <br>media";0;0;"";0;0.0
+"8f86bc99-d6a0-4d0b-885d-4dc519372f88";"chocospapas";"chocospapas";"None";"Papas con Chocos";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Papas <br>con Chocos";0;0;"";0;0.0
+"939a516b-9314-466f-a12c-ab1396478d5a";"carajilla";"carajilla";"None";"Carajilla";1.5;1.8181818181818181;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Carajilla";0;0;"";0;0.0
+"94b87ba3-ac4d-4d3c-93f6-f013acd87e18";"havana3";"havana3";"None";"Havana 3";3.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Havana 3";0;0;"";0;0.0
+"974e439c-6eb4-4d92-b127-eee0d82857af";"barcelo";"barcelo";"None";"Barcelo";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Barcelo";0;0;"";0;0.0
+"982cad6f-5505-4327-972a-5df1404068db";"havana7";"havana7";"None";"Havana 7";3.0;6.363636363636363;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Havana 7";0;0;"";0;0.0
+"98438527-c2d7-4902-b2db-289437f5bb99";"salpicon";"salpicon";"None";"Salpicon de Gambas";3.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Salpicon <br>de Gambas";0;0;"";0;0.0
+"9855e8ff-f158-4c73-b96e-8da6a3113358";"sangria";"sangria";"None";"Jarra Sangria";2.0;7.2727272727272725;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Jarra <br>Sangria";0;0;"";0;0.0
+"9c1389d7-1ac3-475b-a49d-2026a3d4ec02";"tostaSalmon";"tostaSalmon";"None";"Tosta Salmon";2.0;4.545454545454545;"0484675e-1baf-415a-b1a0-897fbb1fa14c";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Tosta <br>Salmon";0;0;"";0;0.0
+"9c5055c8-093d-4580-8fec-cf75a465549d";"hamaca";"hamaca";"None";"Dia Completo";1.0;10.909090909090908;"26c209c2-d731-4e24-938b-d87ebaa2b7d9";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Dia Completo";0;0;"";0;0.0
+"9cf36d21-4c3b-44f5-aa0d-c2a7906f733f";"tvgrande";"tvgrande";"None";"tinto verano grande";1.0;2.727272727272727;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>tinto verano <br>grande";0;0;"";0;0.0
+"9d832e17-d360-47bb-aa67-58fc75036960";"cocktailmariso";"cocktailmariso";"None";"Cocktail de Marisco";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Cocktail <br>de Marisco";0;0;"";0;0.0
+"9db140cb-4d87-41a6-8815-0a6a8687d397";"tapaacedias";"tapaacedias";"None";"Tapa Acedias";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Acedias";0;0;"";0;0.0
+"9f99190d-acdb-460d-9671-d29524225d68";"light";"light";"None";"Pepsi Light";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Pepsi <br>Light";0;0;"";0;0.0
+"a463c660-9023-4b37-9280-1d75a3793728";"arenafina";"arenafina";"None";"Arena Fina";2.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Arena <br>Fina";0;0;"";0;0.0
+"a575de9d-0528-4e74-bbc7-788c506469d0";"kaipiroska";"kaipiroska";"None";"Kaipiroska";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Kaipiroska";0;0;"";0;0.0
+"a59cb406-6a90-4ce3-b55f-ab3b7fca081c";"tapahuevorelleno";"tapahuevorelleno";"None";"Tapa Huevo Relleno";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Tapa <br>Huevo <br>Relleno";0;0;"";0;0.0
+"a650aede-16e4-449a-a660-e78a852fa31f";"tapahuevas";"tapahuevas";"None";"Tapa Huevas";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Huevas";0;0;"";0;0.0
+"a71b66f7-6739-4b95-9b38-964cd8efa447";"kriatur";"kriatur";"None";"Kriatur";1.21;1.8181818181818181;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Kriatur";0;0;"";0;0.0
+"a81ef350-e890-4208-a5cb-a067fdf849c1";"cvsin";"cvsin";"None";"CV Sin";1.0;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>CV Sin";0;0;"";0;0.0
+"a932dfea-b335-4744-9d9d-94573fa38437";"desperado";"desperado";"None";"Desperado";1.0;1.8181818181818181;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Desperado";0;0;"";0;0.0
+"a95cbe59-7fb1-47bd-ac08-37a542cf0ae6";"pellejito";"pellejito";"None";"Pellejito de Atun";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Pellejito <br>de Atun";0;0;"";0;0.0
+"aec0f694-c13e-40af-a5e6-d5de4bc21d94";"jimbeam";"jimbeam";"None";"Jim Beam";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Jim Beam";0;0;"";0;0.0
+"af51864b-bd4d-469b-805e-8d796b2f74a7";"aguag";"aguag";"None";"Agua Grande";1.0;2.2727272727272725;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Agua <br>Grande";0;0;"";0;0.0
+"af722d94-3ade-40a2-bd57-2918ebb408b0";"lomopat";"lomopat";"None";"Lomo con patatas";3.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Lomo <br> con patatas";0;0;"";0;0.0
+"b11847b9-3dab-443d-8707-b10d67668671";"margarita";"margarita";"None";"Margarita";2.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Margarita";0;0;"";0;0.0
+"b122ce3a-bcac-4e0f-b669-803068043917";"martiniblanco";"martiniblanco";"None";"Martini Blanco";1.0;3.1818181818181817;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Martini <br>Blanco";0;0;"";0;0.0
+"b332697d-e0d9-4999-bbe7-ba820f0138a8";"fourroses";"fourroses";"None";"Four Roses";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Four <br>Roses";0;0;"";0;0.0
+"b3dcd472-7b3c-46ec-840f-4a61281b145d";"beefeater";"beefeater";"None";"Beefeater";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Beefeater";0;0;"";0;0.0
+"b4e7c011-39fe-4ba1-8762-ced469bc4635";"pivotvanilla";"pivotvanilla";"None";"Vanilla Chocolate";1.4;2.0;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Vanilla <br>Chocolate";0;0;"";0;0.0
+"b5146d14-47b3-44b6-ad6b-a3c216563d01";"montlomo";"montlomo";"None";"Montadito Lomo";1.0;2.727272727272727;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Montadito <br>Lomo";0;0;"";0;0.0
+"b58949e2-e135-458f-9229-ce9122546bfb";"gaspach";"gaspach";"None";"Gaspacho";1.0;3.6363636363636362;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Gaspacho";0;0;"";0;0.0
+"b65be276-4ef3-445f-bfee-fdb648b62dff";"7up";"7up";"None";"7up";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>7up";0;0;"";0;0.0
+"b754358f-d817-4c2a-aec4-214a265d31d0";"palomitas";"Palomitas";"None";"Palomitas";0.2;0.9090909090909091;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Palomitas";0;0;"";0;0.0
+"b95d6ecf-3efa-430b-9c32-ba7748a4ea3e";"bot vino";"bot vino";"None";"Botella de vino";3.0;12.727272727272727;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Botella de <br>vino";0;0;"";0;0.0
+"b9a99660-92b4-4765-8853-6e202e71ad97";"tomateatun";"tomateatun";"None";"Tomate con Atun";4.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Tomate <br>con Atun";0;0;"";0;0.0
+"bb561290-b379-46f8-9a4c-d704d7227bab";"ensaladilla";"ensaladilla";"None";"Ensaladilla";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Ensaladilla";0;0;"";0;0.0
+"bbb94171-d877-4b44-aa1a-7e00c50d95ca";"atunplancha";"atunplancha";"None";"Atun Plancha";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"b7d00d31-d623-4758-bf64-641057aee3b3";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Atun <br>Plancha";0;0;"";0;0.0
+"bdfdf59a-d95f-4a4a-a0fd-719070ab4905";"vinorosada";"vinorosada";"None";"Vino Rosada";1.0;2.2727272727272725;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Vino Rosada";0;0;"";0;0.0
+"be0d7635-1e59-4474-bba9-ba63a299cae6";"bonbonturron";"bonbonturron";"None";"Bon Bon Turron";0.85;1.6363636363636362;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Bon Bon <br>Turron";0;0;"";0;0.0
+"bf987d86-99e2-4274-b841-016180cacd3d";"caÃ±a";"caÃ±a";"None";"Cerveza CaÃ±a";1.0;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Cerveza CaÃ±a";0;0;"";0;0.0
+"c3c64db5-af1a-40eb-baa9-433c469228cf";"---------";"---------";"None";"----------------------------------------------------------------";0.0;0.0;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"000";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>----------------------------------------------------------------";0;0;"";0;0.0
+"c51c5ae0-c59d-477c-ab4a-dec8bf5bd014";"bacardi";"bacardi";"None";"Bacardi";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Bacardi";0;0;"";0;0.0
+"c62dc9a6-0e37-46b3-b6a7-90c19e0d12f4";"sardinas";"sardinas";"None";"Sardinas";4.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Sardinas";0;0;"";0;0.0
+"c6c4ea77-ae81-4add-a06b-314561a02aac";"jaraCV";"jaraCV";"None";"Jarra CV";2.0;5.454545454545454;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Jarra CV";0;0;"";0;0.0
+"c9cfbd0c-5af8-4244-a6cc-3879eee7e7b7";"nestea";"nestea";"None";"Nestea";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Nestea";0;0;"";0;0.0
+"ca2a1366-6617-43fa-b05d-eda9300b1ca0";"almachocolate";"almachocolate";"None";"Alma de Chocolate";1.4;2.0;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Alma de <br>Chocolate";0;0;"";0;0.0
+"cae1be5c-eb6d-4beb-8b63-e5977f44e6be";"te";"te";"None";"TÃ©";0.5;1.3636363636363635;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>TÃ©";0;0;"";0;0.0
+"cb0f1ab2-cff5-47d3-97d6-2724aa7dd9a5";"jackdaniels";"jackdaniels";"None";"Jack Daniels";3.0;6.363636363636363;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Jack Daniels";0;0;"";0;0.0
+"cd597884-9ec5-4277-b31b-686eb878b6ea";"aceitunas";"aceitunas";"None";"Aceitunas";0.4;0.9090909090909091;"51fd59b5-578f-4d66-b00b-f46c33336df2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Aceitunas";0;0;"";0;0.0
+"cf31d8da-aef5-4c8e-879b-8cc871e80d88";"aguap";"aguap";"None";"Agua Peq";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Agua <br>PequeÃ±a";0;0;"";0;0.0
+"d00a03fd-fe35-4e9e-8d8c-d0b095bb91c9";"tapacaballa";"tapacaballa";"None";"Tapa Caballa";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Caballa";0;0;"";0;0.0
+"d109cec3-6a9a-46d7-9c6d-de2f696093c0";"copaRedbull";"copaRedbull";"None";"Copa & Redbull";3.0;6.363636363636363;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Copa & <br>Redbull";0;0;"";0;0.0
+"d5290efc-6604-45e4-b311-e1c4a54dd47f";"acedias";"acedias";"None";"Acedias Fritas";3.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"06fa5a0f-0b4c-4f1f-b2a7-df7fe221c888";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Acedias <br>Fritas";0;0;"";0;0.0
+"d74b25b4-102d-4508-ace9-40566f9be8d2";"zero";"zero";"None";"Pepsi Zero";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Pepsi Zero";0;0;"";0;0.0
+"d77f1939-62c7-4872-bc9f-d4080af74664";"jamon";"jamon";"None";"Jamon Iberico";7.0;12.727272727272727;"0484675e-1baf-415a-b1a0-897fbb1fa14c";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Jamon <br>Iberico";0;0;"";0;0.0
+"d91299cb-c851-476e-8f35-10d6ac899901";"tanqueray";"tanqueray";"None";"Tanqueray";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Tanqueray";0;0;"";0;0.0
+"da0f57f8-6cb3-4b6a-ba1c-1f5fb63a882d";"con7up";"con7up";"None";"con 7up";0.0;0.0;"326d22ce-f8a0-4c38-92ab-524387bb1e60";"001";"";0.0;0.0;"";"1";"0";"0";"0";"0";"0";"";"<html>con 7up";0;0;"";0;0.0
+"dcb5a6ae-2c54-4c86-bff2-28e8c25f80b7";"bombaysaphire";"bombaysaphire";"None";"Bombay Saphire";3.0;6.363636363636363;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Bombay <br>Saphire";0;0;"";0;0.0
+"dd0a3de1-7afd-4f8d-b7fa-77d0e9d4c057";"huevorelleno";"huevorelleno";"None";"Huevo Relleno";2.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Huevo <br>Relleno";0;0;"";0;0.0
+"de70735e-dff9-4b09-8d24-45dbf48d1980";"mediohamaca";"mediohamaca";"None";"Medio Dia";1.0;5.454545454545454;"26c209c2-d731-4e24-938b-d87ebaa2b7d9";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Medio Dia";0;0;"";0;0.0
+"e010e02a-dfab-4daa-86c3-dae5225de7eb";"casalgarcia";"casalgarcia";"None";"Casal Garcia 1l";4.0;12.727272727272727;"f91c6698-c108-4cb7-a691-216e587fd8a8";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Casal Garcia <br>1l";0;0;"";0;0.0
+"e0631b13-b547-48ca-bb83-40275638b052";"vinoti";"vinoti";"None";"Vino Tinto";1.0;2.2727272727272725;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Vino Tinto";0;0;"";0;0.0
+"e161915a-d824-4fbf-938e-95fc3949e4cc";"tapaensaladilla";"tapaensaladilla";"None";"Tapa Ensaladilla";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Ensaladilla";0;0;"";0;0.0
+"e473c1a5-1b9a-4cdf-a8e8-9db38192e027";"batido";"batido";"None";"Batido";1.0;1.3636363636363635;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Batido";0;0;"";0;0.0
+"e650775f-5246-48a2-aaa0-819b48aaf77f";"tarta";"tarta";"None";"Tarta";1.5;2.727272727272727;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Tarta";0;0;"";0;0.0
+"e6ec9a0d-aae5-4e21-9dd1-15c8a0b5657c";"arroz";"arroz";"None";"Arroz de Marisco";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Arroz de <br>Marisco";0;0;"";0;0.0
+"e7d07642-314a-4782-9827-8b72ff673f74";"tapasalpicon";"tapasalpicon";"None";"Tapa Salpicon";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Salpicon";0;0;"";0;0.0
+"e80f42a1-b652-4f7a-9f72-45ab4fbef3f2";"tonica";"tonica";"None";"Tonica";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tonica";0;0;"";0;0.0
+"e8d1751e-5204-4c23-b99f-c43f127d5328";"bayleys";"bayleys";"None";"Bayleys";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Bayleys";0;0;"";0;0.0
+"e9761c5e-c522-4073-8856-ea1f93360b54";"enssimple";"enssimple";"None";"Ensalada Simple";2.0;3.6363636363636362;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"68a189d2-01e6-47c5-97cd-fa8e9b7c9c8a";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Ensalada <br>Simple";0;0;"";0;0.0
+"e9769bb4-82dd-4452-91f6-372218b0e281";"kubanito";"kubanito";"None";"Kubanito";1.3;1.8181818181818181;"fb462214-11ca-4e17-8ac5-4f24d68e7ba2";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Kubanito";0;0;"";0;0.0
+"e9b9bff5-8340-4702-af26-eea52350d9c0";"colacoa";"colacoa";"None";"Cola Cao";1.0;1.3636363636363635;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Cola Cao";0;0;"";0;0.0
+"ea19238f-2bbe-4a59-9e9f-6cd7d5bf1676";"crucial";"crucial";"None";"Crucial";1.0;1.8181818181818181;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Crucial";0;0;"";0;0.0
+"eb63fd7b-3758-44fe-82ab-75fc07e742f0";"cocktail";"cocktail";"None";"Cocktail";3.0;6.363636363636363;"c6fc7eaa-2f80-4a4e-bdea-bac9e070089f";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Cocktail";0;0;"";0;0.0
+"ed258b5a-8409-4eba-a451-97161d2a68b7";"brugal";"brugal";"None";"Brugal";3.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Brugal";0;0;"";0;0.0
+"eda6006f-c188-44d6-8af7-b2a2310d5ac5";"postrefrutas";"postrefrutas";"None";"Postre Frutas";1.0;2.727272727272727;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Postre Frutas";0;0;"";0;0.0
+"eef516f6-7643-4f90-b8c7-6011a4cc9465";"anis";"anis";"None";"Anis";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Anis";0;0;"";0;0.0
+"efc47c7f-49a3-46b4-9ecc-795a37b982d4";"tapapulpo";"tapapulpo";"None";"Tapa Pulpo";1.0;2.2727272727272725;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Pulpo";0;0;"";0;0.0
+"f0c69421-b4f0-4fc1-903e-c0023d78ec8c";"marmitaco";"marmitaco";"None";"Marmitaco de Atun";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Marmitaco <br>de <br>Atun";0;0;"";0;0.0
+"f2cf2b3b-47e4-4fb2-a3c6-2d38fd212498";"brandy";"brandy";"None";"Brandy";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Brandy";0;0;"";0;0.0
+"f33eb1a3-489f-4e13-9011-8ccaf8f41441";"combi";"combi";"None";"Plato Combi";3.0;5.454545454545454;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Plato <br>Combi";0;0;"";0;0.0
+"f4c97bc7-b604-4e42-af8f-03cd62ef1049";"caballa";"caballa";"None";"Caballa Plancha";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Caballa <br>Plancha";0;0;"";0;0.0
+"f58bc433-c0ff-4e62-910e-7c347912e56c";"manzana";"manzana";"None";"Licor de Manzana";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Licor de <br>Manzana";0;0;"";0;0.0
+"f63adadc-f037-4ab5-ba3b-3d35dfb335e8";"bombay";"bombay";"None";"Bombay Blanco";2.0;4.545454545454545;"9b4abf09-14e8-45db-97fa-1062c4c24574";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Bombay <br>Blanco";0;0;"";0;0.0
+"f6aa0dc5-f51c-40b0-a283-145050f47ee4";"aquariusl";"aquariusl";"None";"Aquarius Limon";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Aquarius <br>Limon";0;0;"";0;0.0
+"f6daaace-38d4-4dc9-9962-0bf832b87087";"chocoplancha";"chocoplancha";"None";"Chocos Plancha";2.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Chocos <br>Plancha";0;0;"";0;0.0
+"f7822a0c-8c1b-4dd1-aa21-e440d912379f";"pepsi";"pepsi";"None";"Pepsi";0.8;1.3636363636363635;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Pepsi";0;0;"";0;0.0
+"fa751b28-3ae8-4345-a259-afe67539c320";"tostaCarne";"tostaCarne";"None";"Tosta Carne Mechado";2.0;4.545454545454545;"0484675e-1baf-415a-b1a0-897fbb1fa14c";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Tosta <br>Carne Mechado";0;0;"";0;0.0
+"fd806826-0165-4532-a86a-453819eda8c0";"radler";"radler";"None";"Radler";1.0;1.8181818181818181;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Radler";0;0;"";0;0.0
+"fd884e41-338d-4f0e-9ca3-d9c2220c4305";"martinirojo";"martinirojo";"None";"Martini Rojo";1.0;3.1818181818181817;"4fabf8cc-c05c-492c-91cb-f0b751d41cee";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Martini <br>Rojo";0;0;"";0;0.0
+"fe1e21ff-2812-4f33-81f2-1fdc74b520cf";"amarguiÃ±a";"amarguiÃ±a";"None";"AmarguiÃ±a";1.0;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>AmarguiÃ±a";0;0;"";0;0.0
+"fe2a6fd4-3bb7-42da-9464-c57bce5eee4a";"tapasardinas";"tapasardinas";"None";"Tapa Sardinas";1.0;3.1818181818181817;"a9769f52-af9f-4e80-8594-034ee3d18304";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Tapa <br>Sardinas";0;0;"";0;0.0
+"fe3f1287-e8a8-4520-b53e-6fa44631c059";"licor";"licor";"None";"Licor";1.5;3.1818181818181817;"0983bed0-8f5c-45c4-bfd4-d0b59152646f";"001";"";0.0;0.0;"";"0";"0";"1";"0";"0";"0";"";"<html>Licor";0;0;"";0;0.0
+"fe52a133-eaa8-4620-b77a-93e7f0cbace4";"cafe";"cafe";"None";"Cafe";1.0;1.3636363636363635;"e092f14b-e48c-4d0d-8a1d-eda8a7ee4ce9";"001";"";0.0;0.0;"‰PNG
+
+";"0";"0";"1";"0";"0";"0";"";"<html>Cafe";0;0;"";0;0.0
+"ff7ef9dd-ad92-4475-a4cd-80d11865261c";"sushi";"sushi";"None";"Sushi";7.0;7.2727272727272725;"bc143237-358d-4899-a170-5e7ba308e9a3";"001";"";0.0;0.0;"";"0";"0";"0";"0";"0";"0";"";"<html>Sushi";0;0;"";0;0.0
